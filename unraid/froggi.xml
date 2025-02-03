@@ -1,1 +1,28 @@
-
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>Froggi</Name>
+  <Repository>obfedder/froggi</Repository>
+  <Registry>https://github.com/obfedder/Froggi</Registry>
+  <Network>host</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project>https://github.com/obfedder/Froggi</Project>
+  <Overview>Flexible Real-time Overlay for Game Graphics and Information&#xD;
+Is a self-hosted &amp;amp; portable (just one binary file!) scoreboard solution that aims to provide an intuitive and simple sports broadcasting overlay.&#xD;
+&#xD;
+Made by crgodfrey and obfedder :)</Overview>
+  <Category>Tools: Status:Stable</Category>
+  <WebUI>http://[IP]:[PORT:3000]</WebUI>
+  <TemplateURL/>
+  <Icon>https://github.com/obfedder/Froggi/blob/main/src/html/web_assets/png/favicon.png?raw=true</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1738549566</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+  <TailscaleStateDir/>
+</Container>
